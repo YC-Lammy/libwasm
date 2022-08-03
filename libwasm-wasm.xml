@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!--WebAssembly mime install for xdg-->
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="x-content/wasm-software">
+    <comment>WebAssambly file</comment>
+    <glob pattern="*.wasm"/>
+  </mime-type>
+</mime-info>
